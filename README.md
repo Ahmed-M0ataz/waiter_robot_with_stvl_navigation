@@ -28,10 +28,13 @@ Initiate Move Base with STVL to begin navigation.
     ```bash
     roslaunch waiter_robot_description_pkg robot_descripion.launch
     ```
-   ![Robot Description](link_to_image1)
+   ![Robot Description](https://github.com/Ahmed-M0ataz/waiter_robot_with_stvl_navigation/blob/main/waiter_robot_description_pkg/media/waiter_robot_world.png)
 
 5. Launch navigation with STVL:
     ```bash
     roslaunch waiter_robot_navigation_pkg waiter_navigation_stvl.launch
     ```
-   ![Navigation with STVL](link_to_image2)
+   ![Navigation with STVL](https://github.com/Ahmed-M0ataz/waiter_robot_with_stvl_navigation/blob/main/media/stvl_navigation.png)
+
+## Testing Video
+[Link to testing video](https://youtu.be/5GmwZriC2II)
