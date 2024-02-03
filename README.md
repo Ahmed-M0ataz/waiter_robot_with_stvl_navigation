@@ -3,7 +3,7 @@
 This repository contains code for a waiter robot that operates using a 2D map created with GMapping, AMCL for localization, Move Base for navigation, and STVL for dynamic world perception.
 
 ## Map Creation
-To create the map, follow the instructions at [link to map creation tutorial].
+To create the map, follow the instructions at [https://github.com/Ahmed-M0ataz/waiter_robot_with_stvl_navigation/tree/main/waiter_robot_gmapping_pkg].
 
 ## Loading Map
 After creating the map, load it using `map_server`.
